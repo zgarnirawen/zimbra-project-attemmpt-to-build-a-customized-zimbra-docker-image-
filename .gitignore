@@ -12,3 +12,7 @@
 
 pkg/
 src/
+*.pem
+*.log
+*-data/
+*.backup
